@@ -1,1 +1,1 @@
-# redux-StateMangement
+# Counter App redux-StateMangement
